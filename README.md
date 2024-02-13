@@ -1,5 +1,7 @@
 # Soften-Sprint2
 
+Docker hub link : https://hub.docker.com/repository/docker/superpeter/cpshop/general
+
 **Team Agreement**
 1. ให้ความสำคัญกับทุกความเห็นของคนในทีม
 2. ต้องมีการกำหนดเป้าหมายและบทบาทให้ชัดเจน
